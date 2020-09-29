@@ -1,0 +1,18 @@
+
+1a)
+copy and paste code below into python text editor
+============================
+
+# Task 1a
+#the code below is a function called foo
+
+x = 5
+
+def foo():
+    x = 10
+    print("local x:", x)
+
+foo()
+print("global x:", x)
+
+
